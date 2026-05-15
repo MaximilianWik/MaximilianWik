@@ -2,7 +2,7 @@
 
 Full-stack developer based in Stockholm. I build small, opinionated web things — mostly with React, TypeScript, and Cloudflare Workers. Also go by Max Wik.
 
-→ [max-wik.com](https://max-wik.com/) · [portfolio](https://maximilian-wikstrom.vercel.app/) · [instagram](https://www.instagram.com/max_wik/)
+→ [max-wik.com](https://max-wik.com/) · [portfolio](https://maximilian-wikstrom.vercel.app/)
 
 ---
 
