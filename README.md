@@ -21,4 +21,4 @@ React · TypeScript · Vite · Next.js · Hono · Cloudflare Workers · Tailwind
 
 - Personal site → **[max-wik.com](https://max-wik.com/)**
 - Portfolio → [maximilian-wikstrom.vercel.app](https://maximilian-wikstrom.vercel.app/)
-- LinkedIn → [Maximnilian Wikström](https://se.linkedin.com/in/maximilian-wikström)
+- LinkedIn → [Maximilian Wikström](https://se.linkedin.com/in/maximilian-wikström)
