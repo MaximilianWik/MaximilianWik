@@ -8,6 +8,7 @@ Full-stack developer based in Stockholm. I build small, opinionated web things -
 
 ## What I''m building
 
+- **[Studio Panic Attack](Placeholder)** - Portfolio site built for Ema Stoyanova; showcasing her work in art, 3D modelling, interactive media technology, product & brand design, UX/UI, photography, projection mapping, campaigns, events, and creative projects.
 - **[Tessera](https://tessera-neon.vercel.app/)** - a QR code generator I designed for tattoos. Custom error-correction tuning and high-contrast styling so the codes survive ink and skin.
 - **[max-wik.com](https://max-wik.com/)** - my QR-tattoo target site. State-switch architecture on Cloudflare Workers: a single number selects which page renders, so I can repoint the tattoo without changing the URL.
 - **[Cursed Echoes](https://cursedechoes.vercel.app/)** - a small browser minigame.
