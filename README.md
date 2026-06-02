@@ -159,23 +159,23 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/profile-details.svg" alt="profile details" width="100%">
+  <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="profile details" width="100%">
 </td>
 <td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/stats.svg" alt="stats" width="100%">
+  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="stats" width="100%">
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/repos-per-language.svg" alt="repos per language" width="100%">
+  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="repos per language" width="100%">
 </td>
 <td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/most-commit-language.svg" alt="most commit language" width="100%">
+  <img src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="most commit language" width="100%">
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="profile-summary-card-output/transparent/productive-time.svg" alt="productive time" width="100%">
+  <img src="profile-summary-card-output/transparent/4-productive-time.svg" alt="productive time" width="100%">
 </td>
 </tr>
 </table>
