@@ -4,7 +4,7 @@
   ============================================================================
   Cyber-sigilism design system, ported from the Tessera project:
     ink ground · bone text · blood accents · monospace voice
-  Sigils are embedded as faded layers in banner.svg + divider-1..5.svg.
+  Sigils embedded in banner.svg (hero) + banner-1..5.svg (section breaks).
   ============================================================================
 -->
 
@@ -38,7 +38,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><img src="assets/divider-1.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/banner-1.svg" width="85%" alt=""></p>
 
 ## ◆ ARTIFACTS
 
@@ -114,7 +114,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/divider-2.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/banner-2.svg" width="85%" alt=""></p>
 
 ## ◆ STACK
 
@@ -132,15 +132,11 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,cloudflare,vercel,github,sqlite,figma&theme=dark" alt="stack icons">
 </p>
 
-<p align="center"><img src="assets/divider-3.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/banner-3.svg" width="85%" alt=""></p>
 
 ## ◆ TELEMETRY
 
-<!--
-  Live counters via shields.io — bulletproof, no third-party deployments
-  to keep alive. These work even when github-readme-stats.vercel.app is
-  paused (which it currently is, hence the static-card replacements below).
--->
+<!-- Live counters via shields.io — bulletproof, always up -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/MaximilianWik?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="followers">
   <img src="https://img.shields.io/github/stars/MaximilianWik/Tessera?style=for-the-badge&label=TESSERA&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="tessera stars">
@@ -149,48 +145,19 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 </p>
 
 <!--
-  Static stat cards generated daily by .github/workflows/profile-summary-cards.yml
-  via vn7n24fzkq/github-profile-summary-cards. The action commits SVGs to
-  profile-summary-card-output/transparent/ on the main branch.
-
-  These will 404 until the workflow runs at least once. After pushing, go to
-  the Actions tab and run "GitHub Profile Summary Cards" manually once.
+  Static stats card — generated daily by .github/workflows/profile-summary-cards.yml
+  and recolored to the Tessera palette in the same workflow.
 -->
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="profile details" width="100%">
-</td>
-<td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="stats" width="100%">
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="repos per language" width="100%">
-</td>
-<td width="50%" align="center">
-  <img src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="most commit language" width="100%">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="profile-summary-card-output/transparent/4-productive-time.svg" alt="productive time" width="100%">
-</td>
-</tr>
-</table>
-
-<!-- Streak (different host — Heroku — still up at time of writing) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="60%">
+  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="stats" width="60%">
 </p>
 
-<!-- Activity graph — different Vercel deployment, currently OK -->
+<!-- Activity graph — different Vercel deployment from the paused stats one -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximilianWik&bg_color=07070a&color=ece6d8&line=c41e26&point=ece6d8&area=true&area_color=c41e26&hide_border=true&custom_title=ACTIVITY%20%E2%80%94%20LAST%20YEAR" alt="activity graph" width="100%">
 </p>
 
-<!-- Snake animation. Generated daily by .github/workflows/snake.yml. -->
+<!-- Snake animation. Generated daily by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWik/MaximilianWik/output/snake.svg">
@@ -199,7 +166,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   </picture>
 </p>
 
-<p align="center"><img src="assets/divider-4.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/banner-4.svg" width="85%" alt=""></p>
 
 ## ◆ TRANSMISSION
 
@@ -211,7 +178,7 @@ $ contact --priority high
   ↳ open to: senior frontend · full-stack · creative engineering
 ```
 
-<p align="center"><img src="assets/divider-5.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/banner-5.svg" width="85%" alt=""></p>
 
 <p align="center">
   <sub><code>// EOF — built with care, on a ground of ink, in a font of bone, with one drop of blood.</code></sub>

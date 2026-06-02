@@ -7,7 +7,6 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    # Daily at 00:30 UTC (offset from the snake job)
     - cron: "30 0 * * *"
   workflow_dispatch:
   push:
@@ -23,13 +22,39 @@ jobs:
     name: build
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+
+      - name: generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 1
-          # 'transparent' lets our README's container colour show through.
-          # The text colours in this theme already match the Tessera bone palette.
           THEME: 'transparent'
-          AUTO_PUSH: 'true'
+          AUTO_PUSH: 'false'
+
+      - name: recolor stats card to Tessera palette
+        run: |
+          f=profile-summary-card-output/transparent/3-stats.svg
+          if [ -f "$f" ]; then
+            sed -i \
+              -e 's/#006AFF/#c41e26/g' \
+              -e 's/#0579C3/#c41e26/g' \
+              -e 's/#417E87/#ece6d8/g' \
+              "$f"
+            echo "recolored $f"
+          else
+            echo "WARN: $f not found"
+          fi
+
+      - name: commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "chore: update profile summary cards (Tessera palette)"
+            git push
+          fi
