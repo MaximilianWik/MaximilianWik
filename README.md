@@ -182,7 +182,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 
 <!-- Streak (different host — Heroku — still up at time of writing) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="60%">
+  <img src="https://streak-stats.demolab.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="60%">
 </p>
 
 <!-- Activity graph — different Vercel deployment, currently OK -->
