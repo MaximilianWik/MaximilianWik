@@ -4,6 +4,7 @@
   ============================================================================
   Cyber-sigilism design system, ported from the Tessera project:
     ink ground · bone text · blood accents · monospace voice
+  Sigils are embedded as faded layers in banner.svg + divider.svg.
   ============================================================================
 -->
 
@@ -37,7 +38,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## ◆ ARTIFACTS
 
@@ -113,7 +114,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 </td></tr>
 </table>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## ◆ STACK
 
@@ -131,28 +132,24 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,cloudflare,vercel,github,sqlite,figma&theme=dark" alt="stack icons">
 </p>
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## ◆ TELEMETRY
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="58%">
   <img src="https://github-readme-stats.vercel.app/api?username=MaximilianWik&show_icons=true&hide_border=true&bg_color=07070a&title_color=c41e26&icon_color=c41e26&text_color=ece6d8&include_all_commits=true&count_private=true&rank_icon=percentile" alt="github stats" width="100%">
 </td>
-<td width="50%">
+<td width="42%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="100%">
 </td>
 </tr>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianWik&layout=compact&hide_border=true&bg_color=07070a&title_color=c41e26&text_color=ece6d8&langs_count=10" alt="top languages" width="100%">
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaximilianWik&hide_border=true&bg_color=07070a&title_color=c41e26&text_color=ece6d8&layout=compact" alt="wakatime" width="100%">
-</td>
-</tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianWik&layout=compact&hide_border=true&bg_color=07070a&title_color=c41e26&text_color=ece6d8&langs_count=10" alt="top languages" width="60%">
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximilianWik&bg_color=07070a&color=ece6d8&line=c41e26&point=ece6d8&area=true&area_color=c41e26&hide_border=true&custom_title=ACTIVITY%20%E2%80%94%20LAST%20YEAR" alt="activity graph" width="100%">
@@ -172,27 +169,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   </picture>
 </p>
 
-<br>
-
-## ◆ SIGILS
-
-<p align="center">
-  <img src="assets/sigil-18.jpg" width="18%" alt="">
-  &nbsp;
-  <img src="assets/sigil-13.jpg" width="18%" alt="">
-  &nbsp;
-  <img src="assets/sigil-10.jpg" width="18%" alt="">
-  &nbsp;
-  <img src="assets/sigil-21.jpg" width="18%" alt="">
-  &nbsp;
-  <img src="assets/sigil-27.jpg" width="18%" alt="">
-</p>
-
-<p align="center">
-  <em>From <a href="https://github.com/MaximilianWik/Tessera">Tessera</a>. Mosaic tiles, eleven hundred years on a wall in Hagia Sophia, still readable. Same idea: build the small pieces well enough that the picture survives.</em>
-</p>
-
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## ◆ TRANSMISSION
 
@@ -204,7 +181,7 @@ $ contact --priority high
   ↳ open to: senior frontend · full-stack · creative engineering
 ```
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 <p align="center">
   <sub><code>// EOF — built with care, on a ground of ink, in a font of bone, with one drop of blood.</code></sub>
