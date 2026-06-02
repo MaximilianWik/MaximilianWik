@@ -37,11 +37,19 @@ jobs:
         run: |
           f=profile-summary-card-output/transparent/3-stats.svg
           if [ -f "$f" ]; then
+            # Step 1: theme colours -> Tessera palette
+            #   #006AFF (title)         -> #c41e26 (blood)
+            #   #0579C3 (icons)         -> #c41e26 (blood)
+            #   #417E87 (labels+values) -> #ece6d8 (bone, temporarily)
             sed -i \
               -e 's/#006AFF/#c41e26/g' \
               -e 's/#0579C3/#c41e26/g' \
               -e 's/#417E87/#ece6d8/g' \
               "$f"
+            # Step 2: flip the values back to blood. The values are emitted
+            # at x="130" (the labels are at x="21"), so we can target them
+            # specifically with a regex on the <text> element.
+            sed -i -E 's|(<text x="130"[^>]*fill: )#ece6d8|\1#c41e26|g' "$f"
             echo "recolored $f"
           else
             echo "WARN: $f not found"
