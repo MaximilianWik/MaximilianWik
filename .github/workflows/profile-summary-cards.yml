@@ -1,0 +1,35 @@
+name: GitHub Profile Summary Cards
+
+# Generates static SVG cards (profile details, stats, repos-per-language,
+# most-commit-language, productive-time) committed to the repo. Reliable
+# replacement for the github-readme-stats.vercel.app service which keeps
+# getting paused due to rate-limit overruns.
+
+on:
+  schedule:
+    # Daily at 00:30 UTC (offset from the snake job)
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: build
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 1
+          # 'transparent' lets our README's container colour show through.
+          # The text colours in this theme already match the Tessera bone palette.
+          THEME: 'transparent'
+          AUTO_PUSH: 'true'

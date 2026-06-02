@@ -4,7 +4,7 @@
   ============================================================================
   Cyber-sigilism design system, ported from the Tessera project:
     ink ground · bone text · blood accents · monospace voice
-  Sigils are embedded as faded layers in banner.svg + divider.svg.
+  Sigils are embedded as faded layers in banner.svg + divider-1..5.svg.
   ============================================================================
 -->
 
@@ -38,7 +38,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/divider-1.svg" width="100%" alt=""></p>
 
 ## ◆ ARTIFACTS
 
@@ -114,7 +114,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 </td></tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/divider-2.svg" width="100%" alt=""></p>
 
 ## ◆ STACK
 
@@ -132,35 +132,65 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,cloudflare,vercel,github,sqlite,figma&theme=dark" alt="stack icons">
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/divider-3.svg" width="100%" alt=""></p>
 
 ## ◆ TELEMETRY
 
+<!--
+  Live counters via shields.io — bulletproof, no third-party deployments
+  to keep alive. These work even when github-readme-stats.vercel.app is
+  paused (which it currently is, hence the static-card replacements below).
+-->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MaximilianWik?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="followers">
+  <img src="https://img.shields.io/github/stars/MaximilianWik/Tessera?style=for-the-badge&label=TESSERA&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="tessera stars">
+  <img src="https://img.shields.io/github/stars/MaximilianWik/Subdermal?style=for-the-badge&label=SUBDERMAL&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="subdermal stars">
+  <img src="https://img.shields.io/github/last-commit/MaximilianWik/Subdermal?style=for-the-badge&label=LAST+COMMIT&labelColor=000000&color=ece6d8&logo=git&logoColor=c41e26" alt="last commit">
+</p>
+
+<!--
+  Static stat cards generated daily by .github/workflows/profile-summary-cards.yml
+  via vn7n24fzkq/github-profile-summary-cards. The action commits SVGs to
+  profile-summary-card-output/transparent/ on the main branch.
+
+  These will 404 until the workflow runs at least once. After pushing, go to
+  the Actions tab and run "GitHub Profile Summary Cards" manually once.
+-->
 <table width="100%">
 <tr>
-<td width="58%">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianWik&show_icons=true&hide_border=true&bg_color=07070a&title_color=c41e26&icon_color=c41e26&text_color=ece6d8&include_all_commits=true&count_private=true&rank_icon=percentile" alt="github stats" width="100%">
+<td width="50%" align="center">
+  <img src="profile-summary-card-output/transparent/profile-details.svg" alt="profile details" width="100%">
 </td>
-<td width="42%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="100%">
+<td width="50%" align="center">
+  <img src="profile-summary-card-output/transparent/stats.svg" alt="stats" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="profile-summary-card-output/transparent/repos-per-language.svg" alt="repos per language" width="100%">
+</td>
+<td width="50%" align="center">
+  <img src="profile-summary-card-output/transparent/most-commit-language.svg" alt="most commit language" width="100%">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="profile-summary-card-output/transparent/productive-time.svg" alt="productive time" width="100%">
 </td>
 </tr>
 </table>
 
+<!-- Streak (different host — Heroku — still up at time of writing) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianWik&layout=compact&hide_border=true&bg_color=07070a&title_color=c41e26&text_color=ece6d8&langs_count=10" alt="top languages" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianWik&hide_border=true&background=07070a&stroke=2a2a37&ring=c41e26&fire=c41e26&currStreakLabel=c41e26&currStreakNum=ece6d8&sideNums=ece6d8&sideLabels=797368&dates=797368" alt="streak" width="60%">
 </p>
 
+<!-- Activity graph — different Vercel deployment, currently OK -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximilianWik&bg_color=07070a&color=ece6d8&line=c41e26&point=ece6d8&area=true&area_color=c41e26&hide_border=true&custom_title=ACTIVITY%20%E2%80%94%20LAST%20YEAR" alt="activity graph" width="100%">
 </p>
 
-<!--
-  Snake animation. Generated daily by .github/workflows/snake.yml,
-  committed to the `output` branch. The image will 404 until the workflow
-  runs at least once — push this to GitHub, then trigger the workflow
-  manually from the Actions tab the first time.
--->
+<!-- Snake animation. Generated daily by .github/workflows/snake.yml. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWik/MaximilianWik/output/snake.svg">
@@ -169,7 +199,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   </picture>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/divider-4.svg" width="100%" alt=""></p>
 
 ## ◆ TRANSMISSION
 
@@ -181,7 +211,7 @@ $ contact --priority high
   ↳ open to: senior frontend · full-stack · creative engineering
 ```
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/divider-5.svg" width="100%" alt=""></p>
 
 <p align="center">
   <sub><code>// EOF — built with care, on a ground of ink, in a font of bone, with one drop of blood.</code></sub>
