@@ -70,7 +70,7 @@ A React SPA on **Cloudflare Workers + Hono + D1**, with a state-switch architect
 <tr><td valign="top" width="50%">
 
 ### [cursed-echoes](https://github.com/MaximilianWik/CursedEchoesMiniGame)
-*a gothic typing trial*
+*a typing survival game*
 
 Browser typing game, Dark-Souls aesthetic. Four zones, three bosses, parry system, dodge-roll i-frames. **Three HiDPI canvases**, game state in refs (HUD ticks at 10 Hz, no per-keystroke React renders). All audio synthesized via Web Audio on demand — cathedral reverb bus, dissonant tritone drones per zone, inharmonic bell partials.
 
@@ -81,7 +81,7 @@ Browser typing game, Dark-Souls aesthetic. Four zones, three bosses, parry syste
 </td><td valign="top" width="50%">
 
 ### [carpet-eater](https://github.com/MaximilianWik/Carpet-Eater)
-*a desktop mouth that chews audio*
+*a desktop pet that chews audio*
 
 Frameless, transparent, mouth-shaped Windows app for the artist [Carpet Eater](https://soundcloud.com/carpet_eater). Drag any audio file onto it — it chews and spits a mangled version next to the original. Five DSP chains, nine pure-numpy stages, deterministic from a SHA-1 of the input file (same input → same output, forever). PyInstaller + Inno Setup, GitHub Actions CI builds EXE + installer + portable on every push.
 
@@ -103,7 +103,7 @@ Built (pro bono) for designer Ema Stoyanova. **`@react-three/fiber` + Three.js r
 </td><td valign="top" width="50%">
 
 ### [portfolio](https://github.com/MaximilianWik/PortfolioV3)
-*dark-fantasy-formal personal site*
+*Dark souls inspired personal portfolio*
 
 React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, ceremonial typography, bonfire-lit hero. Heavy sections code-split via `React.lazy`. `DispersingText` runs a single `pointermove` listener + single RAF loop for the whole paragraph. JSON-LD Person + WebSite schemas for Knowledge Graph signals.
 
