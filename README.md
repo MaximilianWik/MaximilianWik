@@ -175,7 +175,7 @@ $ contact --priority high
   ↳ max.wik@icloud.com
   ↳ +46 70 736 05 15
   ↳ stockholm, se
-  ↳ open to: senior frontend · full-stack · creative engineering
+  ↳ open to: cool projects · full-stack · creative engineering
 ```
 
 <p align="center"><img src="assets/banner-5.svg" width="85%" alt=""></p>
