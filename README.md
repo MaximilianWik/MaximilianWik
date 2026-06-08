@@ -98,7 +98,7 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 
 `p5.js` · `Perlin noise` · `N-body` · `HSB colour`
 
-**→ [repo](https://github.com/MaximilianWik/Paleblood-Vigil)**
+**→ [live](https://paleblood-vigil.vercel.app/)**
 
 </td><td valign="top" width="50%">
 
