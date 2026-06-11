@@ -132,13 +132,13 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 ## ◆ STACK
 
 ```
-┌─ PRIMARY ──────────────────────────────────────────────────────────────┐
-│  TypeScript    React    Vite    Hono    Cloudflare Workers    Tailwind │
-└────────────────────────────────────────────────────────────────────────┘
-┌─ ALSO COMFORTABLE WITH ────────────────────────────────────────────────┐
-│  Python    numpy    PySide6/Qt    Three.js / R3F    GLSL    Node       │
-│  D1 / SQLite    Postgres    Vercel    GitHub Actions    Playwright     │
-└────────────────────────────────────────────────────────────────────────┘
+                        ┌─ PRIMARY ──────────────────────────────────────────────────────────────┐
+                        │  TypeScript    React    Vite    Hono    Cloudflare Workers    Tailwind │
+                        └────────────────────────────────────────────────────────────────────────┘
+                        ┌─ ALSO COMFORTABLE WITH ────────────────────────────────────────────────┐
+                        │  Python    numpy    PySide6/Qt    Three.js / R3F    GLSL    Node       │
+                        │  D1 / SQLite    Postgres    Vercel    GitHub Actions    Playwright     │
+                        └────────────────────────────────────────────────────────────────────────┘
 ```
 
 
