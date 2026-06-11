@@ -161,7 +161,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   </picture>
 </p>
 
-<p align="center"><img src="assets/banner-4.svg" width="85%" alt=""></p>
+<p align="center"><img src="assets/banner-4.svg" width="100%" alt=""></p>
 
 ## ◆ TRANSMISSION
 
@@ -173,7 +173,7 @@ $ contact --priority high
   ↳ open to: cool projects · full-stack · creative engineering
 ```
 
-<p align="center"><img src="assets/banner-5.svg" width="85%" alt=""></p>
+<p align="center"><img src="assets/banner-5.svg" width="100%" alt=""></p>
 
 <p align="center">
   <sub><code>// EOF — built with care, on a ground of ink, in a font of bone, with one drop of blood.</code></sub>
