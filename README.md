@@ -38,7 +38,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><img src="assets/banner-1.svg" width="85%" alt=""></p>
+<p align="center"><img src="assets/banner-2.svg" width="100%" alt=""></p>
 
 ## ◆ ARTIFACTS
 
@@ -127,7 +127,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 </td><td valign="top" width="50%"></td></tr>
 </table>
 
-<p align="center"><img src="assets/banner-2.svg" width="85%" alt=""></p>
+<p align="center"><img src="assets/banner-2.svg" width="100%" alt=""></p>
 
 ## ◆ STACK
 
@@ -141,21 +141,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,cloudflare,vercel,github,sqlite,figma&theme=dark" alt="stack icons">
-</p>
 
-<p align="center"><img src="assets/banner-3.svg" width="85%" alt=""></p>
-
-## ◆ TELEMETRY
-
-<!-- Live counters via shields.io — bulletproof, always up -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MaximilianWik?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="followers">
-  <img src="https://img.shields.io/github/stars/MaximilianWik/Tessera?style=for-the-badge&label=TESSERA&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="tessera stars">
-  <img src="https://img.shields.io/github/stars/MaximilianWik/Subdermal?style=for-the-badge&label=SUBDERMAL&labelColor=000000&color=c41e26&logo=github&logoColor=ece6d8" alt="subdermal stars">
-  <img src="https://img.shields.io/github/last-commit/MaximilianWik/Subdermal?style=for-the-badge&label=LAST+COMMIT&labelColor=000000&color=ece6d8&logo=git&logoColor=c41e26" alt="last commit">
-</p>
 
 <!--
   Static stats card — generated daily by .github/workflows/profile-summary-cards.yml
@@ -165,10 +151,6 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
   <img src="profile-summary-card-output/transparent/3-stats.svg" alt="stats" width="60%">
 </p>
 
-<!-- Activity graph — different Vercel deployment from the paused stats one -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximilianWik&bg_color=07070a&color=ece6d8&line=c41e26&point=ece6d8&area=true&area_color=c41e26&hide_border=true&custom_title=ACTIVITY%20%E2%80%94%20LAST%20YEAR" alt="activity graph" width="100%">
-</p>
 
 <!-- Snake animation. Generated daily by .github/workflows/snake.yml -->
 <p align="center">
