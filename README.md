@@ -23,19 +23,19 @@
 <br>
 
 ```
-                      ┌─ MANIFEST ──────────────────────────────────────────────────────────────────┐
-                      │                                                                             │
-                      │   I build small, opinionated web things — and the occasional desktop        │
-                      │   oddity. React, TypeScript, Cloudflare Workers, Hono, Python, numpy.       │
-                      │                                                                             │
-                      │   Currently obsessed with: things that outlast their author. QR codes       │
-                      │   verified against the ISO spec. State-switch architectures. DSP that       │
-                      │   stays deterministic forever. Portfolios that load in under a second       │
-                      │   on a phone in a basement.                                                 │
-                      │                                                                             │
-                      │   Based in Stockholm. Open to interesting work.                             │
-                      │                                                                             │
-                      └─────────────────────────────────────────────────────────────────────────────┘
+┌─ MANIFEST ──────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   I build small, opinionated web things — and the occasional desktop        │
+│   oddity. React, TypeScript, Cloudflare Workers, Hono, Python, numpy.       │
+│                                                                             │
+│   Currently obsessed with: things that outlast their author. QR codes       │
+│   verified against the ISO spec. State-switch architectures. DSP that       │
+│   stays deterministic forever. Portfolios that load in under a second       │
+│   on a phone in a basement.                                                 │
+│                                                                             │
+│   Based in Stockholm. Open to interesting work.                             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center"><img src="assets/banner-2.svg" width="100%" alt=""></p>
@@ -132,13 +132,13 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 ## ◆ STACK
 
 ```
-                        ┌─ PRIMARY ──────────────────────────────────────────────────────────────┐
-                        │  TypeScript    React    Vite    Hono    Cloudflare Workers    Tailwind │
-                        └────────────────────────────────────────────────────────────────────────┘
-                        ┌─ ALSO COMFORTABLE WITH ────────────────────────────────────────────────┐
-                        │  Python    numpy    PySide6/Qt    Three.js / R3F    GLSL    Node       │
-                        │  D1 / SQLite    Postgres    Vercel    GitHub Actions    Playwright     │
-                        └────────────────────────────────────────────────────────────────────────┘
+┌─ PRIMARY ──────────────────────────────────────────────────────────────┐
+│  TypeScript    React    Vite    Hono    Cloudflare Workers    Tailwind │
+└────────────────────────────────────────────────────────────────────────┘
+┌─ ALSO COMFORTABLE WITH ────────────────────────────────────────────────┐
+│  Python    numpy    PySide6/Qt    Three.js / R3F    GLSL    Node       │
+│  D1 / SQLite    Postgres    Vercel    GitHub Actions    Playwright     │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 
