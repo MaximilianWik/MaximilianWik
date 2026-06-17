@@ -129,7 +129,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 ### [sharon-shakti](https://github.com/MaximilianWik/Sharon-Shakti)
 *horror-realism portfolio · live calendar booking*
 
-Built (pro bono) for tattoo artist Sharon Shakti (@sharonnshakti). **Next.js 14 App Router** with a React Three Fiber hero — simplex-noise displacement shader + canvas2D oxblood ember particles. Google Calendar is the sole source of truth for availability; no database. Three API routes handle slot queries, 28-day horizon availability, and atomic booking with race-condition guard. Gothic ornament system: SVG quatrefoils, arcade arches, tracery corners, pointed-arch clip-path buttons.
+Built (pro bono) for tattoo artist Sharon Shakti (@sharonnshakti). **Next.js 14 App Router** with a React Three Fiber hero, simplex-noise displacement shader + canvas2D oxblood ember particles. Google Calendar is the sole source of truth for availability; no database. Three API routes handle slot queries, 28-day horizon availability, and atomic booking with race-condition guard. Gothic ornament system: SVG quatrefoils, arcade arches, tracery corners, pointed-arch clip-path buttons.
 
 `Next.js 14` · `R3F + Three.js` · `GSAP + Lenis` · `Google Calendar API`
 
