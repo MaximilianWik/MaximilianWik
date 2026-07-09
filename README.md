@@ -115,17 +115,6 @@ Frameless, transparent, mouth-shaped Windows app for the artist [Carpet Eater](h
 
 <tr><td valign="top" width="50%">
 
-### [paleblood-vigil](https://github.com/MaximilianWik/Paleblood-Vigil)
-*generative art — N-body attractor simulation*
-
-Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-square attractors and perturbed by layered Perlin noise. Velocity is mapped to HSB colour — slow particles burn deep crimson, fast ones shift blood-orange. Trails accumulate on a persistent off-screen buffer and decay frame-by-frame. A counter-rotating sigil of concentric polygons (hexagon · nonagon · dodecagon) sits beneath as geometric substrate.
-
-`p5.js` · `Perlin noise` · `N-body` · `HSB colour`
-
-**→ [live](https://paleblood-vigil.vercel.app/)**
-
-</td><td valign="top" width="50%">
-
 ### [studio-panic-attack](https://github.com/MaximilianWik/Studio-Panic-Attack)
 *3D scroll-driven portfolio for a designer*
 
@@ -135,9 +124,7 @@ Built (pro bono) for designer Ema Stoyanova. **`@react-three/fiber` + Three.js r
 
 **→ [live](https://studio-panic-attack-maximilian.vercel.app/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [sharon-shakti](https://github.com/MaximilianWik/Sharon-Shakti)
 *horror-realism portfolio · live calendar booking*
@@ -147,6 +134,19 @@ Built (pro bono) for tattoo artist Sharon Shakti (@sharonnshakti). **Next.js 14 
 `Next.js 14` · `R3F + Three.js` · `GSAP + Lenis` · `Google Calendar API`
 
 **→ [live](https://sharon-shakti.vercel.app/)**
+
+</td></tr>
+
+<tr><td valign="top" width="50%">
+
+### [paleblood-vigil](https://github.com/MaximilianWik/Paleblood-Vigil)
+*generative art — N-body attractor simulation*
+
+Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-square attractors and perturbed by layered Perlin noise. Velocity is mapped to HSB colour — slow particles burn deep crimson, fast ones shift blood-orange. Trails accumulate on a persistent off-screen buffer and decay frame-by-frame. A counter-rotating sigil of concentric polygons (hexagon · nonagon · dodecagon) sits beneath as geometric substrate.
+
+`p5.js` · `Perlin noise` · `N-body` · `HSB colour`
+
+**→ [live](https://paleblood-vigil.vercel.app/)**
 
 </td><td valign="top" width="50%">
 </td></tr>
