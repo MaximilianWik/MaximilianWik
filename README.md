@@ -45,6 +45,17 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr><td valign="top" width="50%">
 
+### [mw-finance](https://github.com/MaximilianWik/MW-Finance)
+*personal finance terminal*
+
+Connects to Lansförsakringar Bank via **Enable Banking Open Banking API** (RS256 JWT). Five-stage categorization pipeline: self-transfer detection → MCC codes → keyword rules → merchant cache → Gemini 2.0 Flash fallback. Budget periods run salary-cycle to salary-cycle, not calendar months. Savings goals with Vercel Blob images and monthly auto-sweep of surplus. Anomaly flagging, what-if budget simulator, recurring payment auto-detection, retro-CLI aesthetic throughout.
+
+`Next.js 15` · `Drizzle ORM` · `Neon Postgres` · `Enable Banking` · `Gemini 2.0 Flash`
+
+**→ [live](https://mw-finance-six.vercel.app/)**
+
+</td><td valign="top" width="50%">
+
 ### [tessera](https://github.com/MaximilianWik/Tessera)
 *verified-permanent QR codes*
 
@@ -54,7 +65,9 @@ A QR generator built for codes that get tattooed and must work for life. Encoder
 
 **→ [live](https://tessera-neon.vercel.app/) · [tests](https://tessera-neon.vercel.app/tests.html)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [subdermal](https://github.com/MaximilianWik/Subdermal) `// max-wik.com`
 *the page behind a tattooed QR*
@@ -65,9 +78,7 @@ A React SPA on **Cloudflare Workers + Hono + D1**, with a state-switch architect
 
 **→ [live](https://max-wik.com/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [cursed-echoes](https://github.com/MaximilianWik/CursedEchoesMiniGame)
 *a typing survival game*
@@ -78,7 +89,9 @@ Browser typing game, Dark-Souls aesthetic. Four zones, three bosses, parry syste
 
 **→ [live](https://cursedechoes.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [carpet-eater](https://github.com/MaximilianWik/Carpet-Eater)
 *a desktop pet that chews audio*
@@ -87,9 +100,7 @@ Frameless, transparent, mouth-shaped Windows app for the artist [Carpet Eater](h
 
 `Python` · `PySide6` · `numpy DSP` · `ffmpeg`
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [paleblood-vigil](https://github.com/MaximilianWik/Paleblood-Vigil)
 *generative art — N-body attractor simulation*
@@ -100,7 +111,9 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 
 **→ [live](https://paleblood-vigil.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [studio-panic-attack](https://github.com/MaximilianWik/Studio-Panic-Attack)
 *3D scroll-driven portfolio for a designer*
@@ -111,9 +124,7 @@ Built (pro bono) for designer Ema Stoyanova. **`@react-three/fiber` + Three.js r
 
 **→ [live](https://studio-panic-attack-maximilian.vercel.app/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [portfolio](https://github.com/MaximilianWik/PortfolioV3)
 *Dark souls inspired personal portfolio*
@@ -124,7 +135,9 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 
 **→ [live](https://maximilian-wikstrom.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [sharon-shakti](https://github.com/MaximilianWik/Sharon-Shakti)
 *horror-realism portfolio · live calendar booking*
@@ -135,6 +148,7 @@ Built (pro bono) for tattoo artist Sharon Shakti (@sharonnshakti). **Next.js 14 
 
 **→ [live](https://sharon-shakti.vercel.app/)**
 
+</td><td valign="top" width="50%">
 </td></tr>
 </table>
 
