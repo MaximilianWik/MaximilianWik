@@ -168,12 +168,9 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 
 
 
-<!--
-  Static stats card — generated daily by .github/workflows/profile-summary-cards.yml
-  and recolored to the Tessera palette in the same workflow.
--->
+<!-- github-readme-stats: Tessera palette (blood title/icons, bone text, transparent bg) -->
 <p align="center">
-  <img src="profile-summary-card-output/transparent/3-stats.svg" alt="stats" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianWik&show_icons=true&hide_border=true&bg_color=00000000&title_color=c41e26&icon_color=c41e26&text_color=ece6d8&ring_color=c41e26" alt="stats" width="60%">
 </p>
 
 
