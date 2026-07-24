@@ -168,9 +168,9 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 
 
 
-<!-- Generated daily by .github/workflows/profile-summary-cards.yml -->
+<!-- streak-stats: Tessera palette (blood accents, bone nums, ash labels, transparent bg) -->
 <p align="center">
-  <img src="profile-summary-card-output/transparent/4-productive-time.svg" alt="stats" width="60%">
+  <img src="https://streak-stats.demolab.com?user=MaximilianWik&background=00000000&border=c41e26&stroke=c41e26&ring=c41e26&fire=c41e26&currStreakNum=c41e26&sideNums=ece6d8&currStreakLabel=797368&sideLabels=797368&dates=797368" alt="GitHub streak stats" width="60%">
 </p>
 
 
