@@ -45,6 +45,17 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr><td valign="top" width="50%">
 
+### [kitty-mesh](https://github.com/MaximilianWik/Kitty-Mesh)
+*browser-native face, hand & pose tracker*
+
+On-device MediaPipe Tasks Vision pipeline running Face, Pose, and Hand Landmarkers at once (30/15/20 Hz targets), recognizing 13 states from blank stare to peace sign, all in the browser with zero backend and no frame ever leaving the device. UI is a set of draggable, resizable "browser desktop windows" (not OS windows) sharing one live camera stream, with a built-in read-only source viewer that shows the actual file behind every panel.
+
+`React 19` · `Vite 7` · `MediaPipe Tasks Vision` · `Vitest`
+
+**→ [live](https://kittymesh.vercel.app/)**
+
+</td><td valign="top" width="50%">
+
 ### [mw-finance](https://github.com/MaximilianWik/MW-Finance)
 *personal finance terminal*
 
@@ -54,7 +65,9 @@ Connects to Lansförsakringar Bank via **Enable Banking Open Banking API** (RS25
 
 **→ [live](https://mw-finance-six.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [portfolio](https://github.com/MaximilianWik/PortfolioV3)
 *Dark souls inspired personal portfolio*
@@ -65,9 +78,7 @@ React 19 · Vite 6 · Tailwind 4 · `motion/react`. Ember-blood on ink-void, cer
 
 **→ [live](https://maximilian-wikstrom.vercel.app/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [tessera](https://github.com/MaximilianWik/Tessera)
 *verified-permanent QR codes*
@@ -78,7 +89,9 @@ A QR generator built for codes that get tattooed and must work for life. Encoder
 
 **→ [live](https://tessera-neon.vercel.app/) · [tests](https://tessera-neon.vercel.app/tests.html)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [subdermal](https://github.com/MaximilianWik/Subdermal) `// max-wik.com`
 *the page behind a tattooed QR*
@@ -89,9 +102,7 @@ A React SPA on **Cloudflare Workers + Hono + D1**, with a state-switch architect
 
 **→ [live](https://max-wik.com/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [cursed-echoes](https://github.com/MaximilianWik/CursedEchoesMiniGame)
 *a typing survival game*
@@ -102,7 +113,9 @@ Browser typing game, Dark-Souls aesthetic. Four zones, three bosses, parry syste
 
 **→ [live](https://cursedechoes.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [carpet-eater](https://github.com/MaximilianWik/Carpet-Eater)
 *a desktop pet that chews audio*
@@ -111,9 +124,7 @@ Frameless, transparent, mouth-shaped Windows app for the artist [Carpet Eater](h
 
 `Python` · `PySide6` · `numpy DSP` · `ffmpeg`
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [studio-panic-attack](https://github.com/MaximilianWik/Studio-Panic-Attack)
 *3D scroll-driven portfolio for a designer*
@@ -124,7 +135,9 @@ Built (pro bono) for designer Ema Stoyanova. **`@react-three/fiber` + Three.js r
 
 **→ [live](https://studio-panic-attack-maximilian.vercel.app/)**
 
-</td><td valign="top" width="50%">
+</td></tr>
+
+<tr><td valign="top" width="50%">
 
 ### [sharon-shakti](https://github.com/MaximilianWik/Sharon-Shakti)
 *horror-realism portfolio · live calendar booking*
@@ -135,9 +148,7 @@ Built (pro bono) for tattoo artist Sharon Shakti (@sharonnshakti). **Next.js 14 
 
 **→ [live](https://sharon-shakti.vercel.app/)**
 
-</td></tr>
-
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 ### [paleblood-vigil](https://github.com/MaximilianWik/Paleblood-Vigil)
 *generative art — N-body attractor simulation*
@@ -147,17 +158,6 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 `p5.js` · `Perlin noise` · `N-body` · `HSB colour`
 
 **→ [live](https://paleblood-vigil.vercel.app/)**
-
-</td><td valign="top" width="50%">
-
-### [kitty-mesh](https://github.com/MaximilianWik/Kitty-Mesh)
-*browser-native face, hand & pose tracker*
-
-On-device MediaPipe Tasks Vision pipeline running Face, Pose, and Hand Landmarkers at once (30/15/20 Hz targets), recognizing 13 states from blank stare to peace sign, all in the browser with zero backend and no frame ever leaving the device. UI is a set of draggable, resizable "browser desktop windows" (not OS windows) sharing one live camera stream, with a built-in read-only source viewer that shows the actual file behind every panel.
-
-`React 19` · `Vite 7` · `MediaPipe Tasks Vision` · `Vitest`
-
-**→ [live](https://kittymesh.vercel.app/)**
 
 </td></tr>
 </table>
