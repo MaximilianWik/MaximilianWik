@@ -149,6 +149,16 @@ Single-file p5.js canvas piece. Particles are pulled by four orbiting inverse-sq
 **→ [live](https://paleblood-vigil.vercel.app/)**
 
 </td><td valign="top" width="50%">
+
+### [kitty-mesh](https://github.com/MaximilianWik/Kitty-Mesh)
+*browser-native face, hand & pose tracker*
+
+On-device MediaPipe Tasks Vision pipeline running Face, Pose, and Hand Landmarkers at once (30/15/20 Hz targets), recognizing 13 states from blank stare to peace sign, all in the browser with zero backend and no frame ever leaving the device. UI is a set of draggable, resizable "browser desktop windows" (not OS windows) sharing one live camera stream, with a built-in read-only source viewer that shows the actual file behind every panel.
+
+`React 19` · `Vite 7` · `MediaPipe Tasks Vision` · `Vitest`
+
+**→ [live](https://kittymesh.vercel.app/)**
+
 </td></tr>
 </table>
 
