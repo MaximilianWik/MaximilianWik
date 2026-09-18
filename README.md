@@ -33,7 +33,7 @@
 │   stays deterministic forever. Portfolios that load in under a second       │
 │   on a phone in a basement.                                                 │
 │                                                                             │
-│   Based in Stockholm. Open to interesting work.                             │
+│   Based in Stockholm. Open to interesting work. :3                             │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
