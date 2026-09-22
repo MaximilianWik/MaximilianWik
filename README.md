@@ -59,7 +59,7 @@ On-device MediaPipe Tasks Vision pipeline running Face, Pose, and Hand Landmarke
 ### [mw-finance](https://github.com/MaximilianWik/MW-Finance)
 *personal finance terminal*
 
-Connects to Lansförsakringar Bank via **Enable Banking Open Banking API** (RS256 JWT). Five-stage categorization pipeline: self-transfer detection → MCC codes → keyword rules → merchant cache → Gemini 2.0 Flash fallback. Budget periods run salary-cycle to salary-cycle, not calendar months. Savings goals with Vercel Blob images and monthly auto-sweep of surplus. Anomaly flagging, what-if budget simulator, recurring payment auto-detection, retro-CLI aesthetic throughout.
+Connects to Lansförsakringar Bank via **Enable Banking Open Banking API** (RS256 JWT). Five-stage categorization pipeline: self-transfer detection → MCC codes → keyword rules → merchant cache → Gemini 2.0 Flash fallback. Budget periods run salary-cycle to salary-cycle, not calendar months. Savings goals with Vercel Blob images and monthly auto-sweep of surplus. Anomaly flagging, what-if budget simulator, recurring payment auto-detection, retro-CLI aesthetic throughout. :3
 
 `Next.js 15` · `Drizzle ORM` · `Neon Postgres` · `Enable Banking` · `Gemini 2.0 Flash`
 
