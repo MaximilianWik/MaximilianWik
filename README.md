@@ -208,10 +208,5 @@ $ contact --priority high
 <p align="center"><img src="assets/banner-5.svg" width="100%" alt=""></p>
 
 <p align="center">
-
-
-https://github.com/user-attachments/assets/d949c781-dc4a-4742-8020-0890fcfb6039
-
-
   <sub><code>// EOF — built with care, on a ground of ink, in a font of bone, with one drop of blood.</code></sub>
 </p>
